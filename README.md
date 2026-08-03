@@ -89,20 +89,20 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kdtechs1000-ctrl&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kdtechs1000-ctrl&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdtechs1000-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kdtechs1000-ctrl&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtechs1000-ctrl&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtechs1000-ctrl&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kdtechs1000-ctrl&theme=onedark&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=kdtechs1000-ctrl&theme=tokyonight" />
 </p>
 
 ---
@@ -122,13 +122,7 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kdtechs1000-ctrl/kdtechs1000-ctrl/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 📫 Connect With Me
 

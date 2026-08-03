@@ -122,6 +122,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kdtechs1000-ctrl/kdtechs1000-ctrl/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
 
 # 📫 Connect With Me
 

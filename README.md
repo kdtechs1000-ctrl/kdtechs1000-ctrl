@@ -20,7 +20,7 @@
 
 🔐 Passionate about **Cybersecurity** & **Ethical Hacking**
 
-🐍 Learning **Python**, **React**, **Linux**, **Networking**, and **Cloud Computing**
+🐍 Learning **Python**, **React**,  **Networking**
 
 🌱 Exploring **AI**, **Open Source**, and **Modern Web Development**
 
@@ -63,31 +63,18 @@
 - ⚛️ React.js & Modern Frontend Development
 - 🌐 Full-Stack Web Development
 - ☁️ Cloud Computing (AWS)
-- 🐳 Docker & Containerization
-- 🐧 Linux Administration
 - 🌍 Computer Networking (CCNA Fundamentals)
 - 🛡️ Web Application Security (OWASP Top 10)
 - 📡 Network Security & Penetration Testing
 - 🔑 Cryptography Basics
 - 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Structures & Algorithms
 - 🗄️ SQL & Database Design
 - ⚡ Git & GitHub Best Practices
-- 🔧 REST APIs
 - 📝 Clean Code & Software Design Principles
 - 🚀 Open Source Contribution
 
 ---
 
-# 🚀 Featured Projects
-
-- 🔐 Password Manager
-- 🌐 Portfolio Website
-- 📖 Data Structures & Algorithms
-- 🤖 Python Automation Scripts
-- 🛡️ Cybersecurity Labs
-
----
 
 
 # 📫 Connect With Me

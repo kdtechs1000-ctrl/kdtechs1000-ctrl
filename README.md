@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritan Dawadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+Enthusiast;React+Learner;Python+Developer;Always+Learning+New+Things!;Eat,Sleep,Code,Repeat!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;;Python+Developer;Always+Learning+New+Things!;Eat,Sleep,Code,Repeat!!" />
 </p>
 
 <p align="center">
@@ -18,9 +18,7 @@
 
 🎓 Computer Science Student from Nepal
 
-🔐 Passionate about **Cybersecurity** & **Ethical Hacking**
-
-🐍 Learning **Python**, **React**,  **Networking**
+🐍 Learning **Python** ,  **Networking**
 
 🌱 Exploring **AI**, **Open Source**, and **Modern Web Development**
 
@@ -58,14 +56,9 @@
 
 # 📚 Currently Learning
 
-- 🔐 Cybersecurity & Ethical Hacking
 - 🐍 Advanced Python Programming
-- ⚛️ React.js & Modern Frontend Development
 - 🌐 Full-Stack Web Development
-- ☁️ Cloud Computing (AWS)
 - 🌍 Computer Networking (CCNA Fundamentals)
-- 🛡️ Web Application Security (OWASP Top 10)
-- 📡 Network Security & Penetration Testing
 - 🔑 Cryptography Basics
 - 🤖 Artificial Intelligence & Machine Learning
 - 🗄️ SQL & Database Design
@@ -82,8 +75,6 @@
 📧 Email: kritan1000@gmail.com
 
 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kritan-dawadi-90a1bb370/)
-
-🌐 Portfolio: Coming Soon 🚀
 
 ---
 

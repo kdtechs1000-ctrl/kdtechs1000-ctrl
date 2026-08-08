@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritan Dawadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;;Python+Developer;Always+Learning+New+Things!;Eat,Sleep,Code,Repeat!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;;Python+Developer;Bio:-Eat,Sleep,Code,Repeat!!" />
 </p>
 
 <p align="center">
@@ -22,8 +22,6 @@
 
 🌱 Exploring **AI**, **Open Source**, and **Modern Web Development**
 
-🚀 My goal is to become a **Cybersecurity Engineer** and **Full-Stack Developer**.
-
 💡 I enjoy solving problems and building practical software.
 
 ---
@@ -40,7 +38,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ### Database
 
@@ -58,10 +55,8 @@
 
 - 🐍 Advanced Python Programming
 - 🌐 Full-Stack Web Development
-- 🌍 Computer Networking (CCNA Fundamentals)
-- 🔑 Cryptography Basics
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗄️ SQL & Database Design
+- 🤖 Artificial Intelligence 
+- 🗄️ SQL, UI/UX Design
 - ⚡ Git & GitHub Best Practices
 - 📝 Clean Code & Software Design Principles
 - 🚀 Open Source Contribution

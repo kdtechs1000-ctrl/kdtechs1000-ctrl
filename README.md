@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritan Dawadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;Python+Developer;Cybersecurity+Enthusiast;Eat%2C+Sleep%2C+Code%2C+Repeat!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;Python+Developer;Eat%2C+Sleep%2C+Code%2C+Repeat!" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kdtechs1000-ctrl&label=Profile%20Views&color=0e75b6&style=flat" />

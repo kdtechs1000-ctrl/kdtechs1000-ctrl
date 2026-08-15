@@ -52,10 +52,10 @@
 
 # 📚 Currently Learning
 
-- 🐍 Advanced Python Programming
+- 🐍 Python Programming
 - 🌐 Full-Stack Web Development
-- 🤖 Artificial Intelligence 
-- 🗄️ SQL, UI/UX Design
+- 🤖 Artificial Intelligence Prompting
+- 🗄️ UI/UX Design
 - ⚡ Git & GitHub Best Practices
 - 📝 Clean Code & Software Design Principles
 - 🚀 Open Source Contribution
